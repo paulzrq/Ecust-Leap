@@ -22,6 +22,8 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 联系方式：**paulzrq@126.com** & [**zhoumurong@outlook.com**](mailto:zhoumurong@outlook.com)
 
+## 近期更新
+
 ## <u>飞跃手册是什么？</u>
 
 感谢学弟学妹阅读华理飞跃手册2.0。
@@ -40,7 +42,7 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 飞跃手册欢迎**所有的毕业生**分享你们的故事，不限出路、不限水平。
 
-- 对于没有Git使用背景的大部分同学：请将编辑好的Word/Pages/Markdown文件发送到[ecust.leap@163.com](mailto:ecust.leap@163.com)，我们会帮助你上架。
+- 对于没有Git使用背景的大部分同学：请将编辑好的Word/Pages/Markdown文件发送到[ecust.leap@163.com](mailto:ecust.leap@163.com)，我们会帮助你上架。我们为你提供了word版本的分享模板，模板的内容结构仅限参考，链接：https://pan.baidu.com/s/14aPgRHxcvV1PmFx5URLAQQ 提取码：6fnp
 - 对于熟悉Git操作的同学：请对[模板](https://github.com/paulzrq/Ecust-Leap/tree/main/0%E6%A8%A1%E6%9D%BF)路径下的对应文件夹Pull Request
 - 如需更新内容，请及时联系我们！
 

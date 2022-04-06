@@ -1,4 +1,4 @@
-# [出国]-17-Siyi Communication @ National University of Singapore
+# [出国]-17-Siyi-Communication @ National University of Singapore
 
 ## 基本背景
 

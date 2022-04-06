@@ -25,7 +25,7 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 ## 近期更新
 
-[[出国]-17-Siyi Communication @ National University of Singapore]([Ecust-Leap/社会与公共管理学院/公共政策系 at main · paulzrq/Ecust-Leap (github.com)](https://github.com/paulzrq/Ecust-Leap/tree/main/社会与公共管理学院/公共政策系))
+[[出国]-17-Siyi-Communication @ National University of Singapore](https://github.com/paulzrq/Ecust-Leap/tree/main/社会与公共管理学院/公共政策系)
 
 ## <u>飞跃手册是什么？</u>
 

@@ -14,13 +14,13 @@
 
 ## <u>意见/改进</u>
 
-为改进飞跃手册用户体验，故创建此表收集大家的意见。xxx
+如果大家有任何意见或者建议欢迎联系[ecust.leap@163.com](mailto:ecust.leap@163.com)
 
 GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzrq/Ecust-Leap)
- 目前维护者：18级张润秋 18级周沐融
- 联系方式：**paulzrq@126.com** & [**zhoumurong@outlook.com**](mailto:zhoumurong@outlook.com)
 
-*如果您有有任何改进建议欢迎您直接联系我们！*
+目前维护者：18级张润秋 18级周沐融
+
+联系方式：**paulzrq@126.com** & [**zhoumurong@outlook.com**](mailto:zhoumurong@outlook.com)
 
 ## <u>飞跃手册是什么？</u>
 
@@ -41,7 +41,7 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 飞跃手册欢迎**所有的毕业生**分享你们的故事，不限出路、不限水平。
 
 - 对于没有Git使用背景的大部分同学：请将编辑好的Word/Pages/Markdown文件发送到[ecust.leap@163.com](mailto:ecust.leap@163.com)，我们会帮助你上架。
-- 对于熟悉Git操作的同学：请对[**模板**]()路径下的对应文件夹Pull Request
+- 对于熟悉Git操作的同学：请对[**模板**]([Ecust-Leap/0模板 at main · paulzrq/Ecust-Leap (github.com)](https://github.com/paulzrq/Ecust-Leap/tree/main/0模板))路径下的对应文件夹Pull Request
 - 如需更新内容，请及时联系我们！
 
 ## <u>**友情链接**</u>

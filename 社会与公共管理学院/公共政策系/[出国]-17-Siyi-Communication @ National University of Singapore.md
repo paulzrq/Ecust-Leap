@@ -1,4 +1,4 @@
-# [出国]-17-Siyi Communication @ National University of Singapore
+# [出国]-17-Siyi-Communication @ National University of Singapore
 
 ## 基本背景
 
@@ -23,9 +23,9 @@
   2. ​    Master of Social science in Mass Communication @ The University of Melbourne
   3. ​    Integrated marketing communication @ Northwestern University
 * Rej：
-  1.  New York University
-  1.		 Columbia University
-  2.	   University of Southern California
+  1.  ​	New York University
+  2.  ​	Columbia University
+  3.  ​	University of Southern California
 
 ## 科研经历
 

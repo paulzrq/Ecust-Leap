@@ -29,6 +29,8 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 [[出国]-18-Vivian-Biostatistics@ Yale University](https://github.com/paulzrq/Ecust-Leap/tree/main/生物工程学院/应用生物学系)
 
+[[求职]-18-Muro- 实习生-@联合国亚洲及太平洋经济社会委员会](https://github.com/paulzrq/Ecust-Leap/tree/main/社会与公共管理学院/公共政策系)
+
 ## <u>飞跃手册是什么？</u>
 
 感谢学弟学妹阅读华理飞跃手册2.0。

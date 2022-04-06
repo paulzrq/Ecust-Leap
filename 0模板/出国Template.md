@@ -1,4 +1,4 @@
-# [出国]-18-nickname Program@ Univeristy
+# [出国]-18-nickname Program@ University
 
 ## 基本背景
 

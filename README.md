@@ -10,7 +10,7 @@
 
 ## <u>投稿/修改</u>
 
-- 投稿/修改请联系[ecust.leap@163.com](mailto:ecust.leap@163.com)**，**邮件标题请注明“投稿/修改-姓名-院系-专业” 并附上微信号
+- 投稿/修改请联系[ecust.leap@163.com](mailto:ecust.leap@163.com)，邮件标题请注明“投稿/修改-姓名-院系-专业” 并附上微信号
 
 ## <u>意见/改进</u>
 
@@ -41,7 +41,7 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 飞跃手册欢迎**所有的毕业生**分享你们的故事，不限出路、不限水平。
 
 - 对于没有Git使用背景的大部分同学：请将编辑好的Word/Pages/Markdown文件发送到[ecust.leap@163.com](mailto:ecust.leap@163.com)，我们会帮助你上架。
-- 对于熟悉Git操作的同学：请对[**模板**]([Ecust-Leap/0模板 at main · paulzrq/Ecust-Leap (github.com)](https://github.com/paulzrq/Ecust-Leap/tree/main/0模板))路径下的对应文件夹Pull Request
+- 对于熟悉Git操作的同学：请对[模板]([Ecust-Leap/0模板 at main · paulzrq/Ecust-Leap (github.com)](https://github.com/paulzrq/Ecust-Leap/tree/main/0模板))路径下的对应文件夹Pull Request
 - 如需更新内容，请及时联系我们！
 
 ## <u>**友情链接**</u>

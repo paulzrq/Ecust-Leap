@@ -33,6 +33,8 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 [[保研]-16-叉烧饭-数学@清华大学](https://github.com/paulzrq/Ecust-Leap/tree/main/数学学院)
 
+[[保研]-16-Y学长-大数据工程@清华大学](https://github.com/paulzrq/Ecust-Leap/tree/main/物理学院)
+
 ## <u>飞跃手册是什么？</u>
 
 感谢学弟学妹阅读华理飞跃手册2.0。

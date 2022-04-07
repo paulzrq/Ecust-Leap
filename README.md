@@ -2,7 +2,7 @@
 
 ## <u>公告</u>
 
-- 请有意愿负责筹划 **2023-Fall** 飞跃手册的同学联系：[ecust.leap@163.com](mailto:ecust.leap@163.com)（邮件标题：23Fall管理-姓名-院系-年级）
+- 请有意愿负责筹划 **2023-Fall** 飞跃手册的同学联系：[ecust_leap@163.com](mailto:ecust_leap@163.com)（邮件标题：23Fall管理-姓名-院系-年级）
 - 支持**使用本名或昵称**投稿。
 - 华理飞跃手册2.0创建于2022年4月，所有分享请于上方文件夹查找。
 - 如果您对飞跃手册有改进建议可以通过邮箱联系我们（联系邮箱在投稿/修改标题下），让我们一起完善飞跃手册！
@@ -11,11 +11,11 @@
 
 ## <u>投稿/修改</u>
 
-- 投稿/修改请联系[ecust.leap@163.com](mailto:ecust.leap@163.com)，邮件标题请注明“投稿/修改-姓名-院系-专业” 并附上微信号
+- 投稿/修改请联系[ecust_leap@163.com](mailto:ecust_leap@163.com)，邮件标题请注明“投稿/修改-姓名-院系-专业” 并附上微信号
 
 ## <u>意见/改进</u>
 
-如果大家有任何意见或者建议欢迎联系[ecust.leap@163.com](mailto:ecust.leap@163.com)
+如果大家有任何意见或者建议欢迎联系[ecust_leap@163.com](mailto:ecust_leap@163.com)
 
 GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzrq/Ecust-Leap)
 
@@ -61,7 +61,7 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 飞跃手册欢迎**所有的毕业生**分享你们的故事，不限出路、不限水平。
 
-- 对于没有Git使用背景的大部分同学：请将编辑好的Word/Pages/Markdown文件发送到[ecust.leap@163.com](mailto:ecust.leap@163.com)，我们会帮助你上架。我们为你提供了word版本的分享模板，模板的内容结构仅供参考，链接：https://pan.baidu.com/s/14aPgRHxcvV1PmFx5URLAQQ 提取码：6fnp
+- 对于没有Git使用背景的大部分同学：请将编辑好的Word/Pages/Markdown文件发送到[ecust_leap@163.com](mailto:ecust_leap@163.com)，我们会帮助你上架。我们为你提供了word版本的分享模板，模板的内容结构仅供参考，链接：https://pan.baidu.com/s/14aPgRHxcvV1PmFx5URLAQQ 提取码：6fnp
 - 对于熟悉Git操作的同学：请对[模板](https://github.com/paulzrq/Ecust-Leap/tree/main/0%E6%A8%A1%E6%9D%BF)路径下的对应文件夹Pull Request
 - 如需更新内容，请及时联系我们！
 

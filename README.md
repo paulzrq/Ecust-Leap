@@ -37,6 +37,10 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 [[保研]-18-波本-化学@北京大学](https://github.com/paulzrq/Ecust-Leap/tree/main/化学与分子工程学院/化学系)
 
+## 特别鸣谢
+
+感谢来自江西财经大学的uu特地前来分享：[[保研]-18-狗里斯-国贸@西南财经](https://github.com/paulzrq/Ecust-Leap/tree/main/4保研)
+
 ## <u>飞跃手册是什么？</u>
 
 感谢学弟学妹阅读华理飞跃手册2.0。

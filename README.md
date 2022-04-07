@@ -53,6 +53,8 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 [[保研]-18-卡夫卡-化工（高分子方向）@浙江大学](https://github.com/paulzrq/Ecust-Leap/tree/main/材料科学与工程学院/高分子材料系)
 
+[[保研]-17-萃取液-介科学研究部@中国科学院过程工程研究所](https://github.com/paulzrq/Ecust-Leap/tree/main/化工学院/化学工程与工艺)
+
 ## 特别鸣谢
 
 感谢来自江西财经大学的uu特地前来分享：[[保研]-18-狗里斯-国贸@西南财经](https://github.com/paulzrq/Ecust-Leap/tree/main/4保研)

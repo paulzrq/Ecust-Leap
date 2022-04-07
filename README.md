@@ -55,6 +55,10 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 [[保研]-17-萃取液-介科学研究部@中国科学院过程工程研究所](https://github.com/paulzrq/Ecust-Leap/tree/main/化工学院/化学工程与工艺)
 
+[Ecust-Leap/材料科学与工程学院/无机材料系 at main · paulzrq/Ecust-Leap (github.com)](https://github.com/paulzrq/Ecust-Leap/tree/main/材料科学与工程学院/无机材料系)
+
+[[考研]-18-Seven-新能源材料与器件@华东理工大学](https://github.com/paulzrq/Ecust-Leap/tree/main/材料科学与工程学院/无机材料系)
+
 ## 特别鸣谢
 
 感谢来自江西财经大学的uu特地前来分享：[[保研]-18-狗里斯-国贸@西南财经](https://github.com/paulzrq/Ecust-Leap/tree/main/4保研)

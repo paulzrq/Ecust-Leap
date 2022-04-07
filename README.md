@@ -25,6 +25,8 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 ## 近期更新
 
+**<u>4.6</u>**
+
 [[出国]-17-Siyi-Communication @ National University of Singapore](https://github.com/paulzrq/Ecust-Leap/tree/main/社会与公共管理学院/公共政策系)
 
 [[出国]-18-Vivian-Biostatistics@ Yale University](https://github.com/paulzrq/Ecust-Leap/tree/main/生物工程学院/应用生物学系)
@@ -35,9 +37,13 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 [[保研]-16-Y学长-大数据工程@清华大学](https://github.com/paulzrq/Ecust-Leap/tree/main/物理学院)
 
+**<u>4.7</u>**
+
 [[保研]-18-波本-化学@北京大学](https://github.com/paulzrq/Ecust-Leap/tree/main/化学与分子工程学院/化学系)
 
 [[出国]-18-Paul-Biostatistics@Yale](https://github.com/paulzrq/Ecust-Leap/tree/main/数学学院)
+
+[[出国]-18-小川-DS&BA@ESSEC](https://github.com/paulzrq/Ecust-Leap/tree/main/材料科学与工程学院/无机材料系)
 
 ## 特别鸣谢
 

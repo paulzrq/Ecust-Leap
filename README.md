@@ -49,6 +49,8 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 [[出国]-18-小飞-金数@HKUST](https://github.com/paulzrq/Ecust-Leap/tree/main/商学院/金融学系)
 
+[[出国]-18-Echo-Biostatistics@Columbia University](https://github.com/paulzrq/Ecust-Leap/tree/main/生物工程学院/应用生物学系)
+
 ## 特别鸣谢
 
 感谢来自江西财经大学的uu特地前来分享：[[保研]-18-狗里斯-国贸@西南财经](https://github.com/paulzrq/Ecust-Leap/tree/main/4保研)

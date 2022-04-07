@@ -59,6 +59,8 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 [[考研]-18-波波茶-金融专硕@中科大](https://github.com/paulzrq/Ecust-Leap/tree/main/数学学院)
 
+[[保研]-18-Hypon-统计@RUC](https://github.com/paulzrq/Ecust-Leap/tree/main/数学学院)
+
 ## 特别鸣谢
 
 感谢来自江西财经大学的uu特地前来分享：[[保研]-18-狗里斯-国贸@西南财经](https://github.com/paulzrq/Ecust-Leap/tree/main/4保研)

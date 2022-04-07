@@ -47,6 +47,8 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 [[考研]-18-泡泡茶-应用统计@上海财经大学](https://github.com/paulzrq/Ecust-Leap/tree/main/数学学院)
 
+[[出国]-18-小飞-金数@HKUST](https://github.com/paulzrq/Ecust-Leap/tree/main/商学院/金融学系)
+
 ## 特别鸣谢
 
 感谢来自江西财经大学的uu特地前来分享：[[保研]-18-狗里斯-国贸@西南财经](https://github.com/paulzrq/Ecust-Leap/tree/main/4保研)

@@ -30,8 +30,8 @@
 
 - Waitlist:
 
-  1. ​	MS in Computational Biology and Quantitative Genetics @ Harvard
-  2. ​	MS in Computational Biology and Quantitative Genetics @ Harvard
+  1. ​	MS in Computational Biology and Quantitative Genetics @ Harvard	
+  2. ​	MS in Community Health and Prevention Research @ Stanford University
   3. ​	MS in Biostatistics @ Brown University
 
 - Rej：

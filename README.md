@@ -63,7 +63,7 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 **<u>4.8</u>**
 
-[[出国]-17-叶一民-社会工作@HKU](https://github.com/paulzrq/Ecust-Leap/tree/main/社会与公共管理学院/社会工作系)
+[[出国]-17-叶一民-会计@HKU](https://github.com/paulzrq/Ecust-Leap/tree/main/社会与公共管理学院/社会工作系)
 
 ## 特别鸣谢
 

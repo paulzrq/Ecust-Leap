@@ -25,7 +25,7 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 ## 近期更新
 
-**<u>4.6</u>**
+**<u>4.6</u>**（5）
 
 [[出国]-17-Siyi-Communication @ National University of Singapore](https://github.com/paulzrq/Ecust-Leap/tree/main/社会与公共管理学院/公共政策系)
 
@@ -37,7 +37,7 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 [[保研]-16-Y学长-大数据工程@清华大学](https://github.com/paulzrq/Ecust-Leap/tree/main/物理学院)
 
-**<u>4.7</u>**
+**<u>4.7</u>**（11）
 
 [[保研]-18-波本-化学@北京大学](https://github.com/paulzrq/Ecust-Leap/tree/main/化学与分子工程学院/化学系)
 
@@ -61,13 +61,15 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 [[保研]-18-Hypon-统计@RUC](https://github.com/paulzrq/Ecust-Leap/tree/main/数学学院)
 
-**<u>4.8</u>**
+**<u>4.8</u>**（4）
 
 [[出国]-17-叶一民-会计@HKU](https://github.com/paulzrq/Ecust-Leap/tree/main/社会与公共管理学院/社会工作系)
 
 [[保研]-18-卷卷-社会工作@南京大学](https://github.com/paulzrq/Ecust-Leap/tree/main/社会与公共管理学院/社会工作系)
 
 [[保研]-18-njj-应用数学直博@华东理工大学](https://github.com/paulzrq/Ecust-Leap/tree/main/数学学院)
+
+[[保研]-18-ckkkk-高分子@复旦](https://github.com/paulzrq/Ecust-Leap/tree/main/材料科学与工程学院/高分子材料系)
 
 ## 特别鸣谢
 

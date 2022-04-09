@@ -71,9 +71,11 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 [[保研]-18-ckkkk-高分子@复旦](https://github.com/paulzrq/Ecust-Leap/tree/main/材料科学与工程学院/高分子材料系)
 
-**<u>4.9（1）</u>**
+**<u>4.9（2）</u>**
 
 [[保研]-18-XT-法硕（非法学）@华东政法大学](https://github.com/paulzrq/Ecust-Leap/tree/main/法学院)
+
+[[保研]-18-sky-应用数学@同济大学](https://github.com/paulzrq/Ecust-Leap/tree/main/数学学院)
 
 ## 特别鸣谢
 

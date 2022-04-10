@@ -25,45 +25,35 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 ## 近期更新
 
-**<u>4.6（5）</u>**
+### 出国
+
+[[出国]-17-叶一民-会计@HKU](https://github.com/paulzrq/Ecust-Leap/tree/main/社会与公共管理学院/社会工作系)
 
 [[出国]-17-Siyi-Communication @ National University of Singapore](https://github.com/paulzrq/Ecust-Leap/tree/main/社会与公共管理学院/公共政策系)
 
 [[出国]-18-Vivian-Biostatistics@ Yale University](https://github.com/paulzrq/Ecust-Leap/tree/main/生物工程学院/应用生物学系)
 
-[[求职]-18-Muro- 实习生-@联合国亚洲及太平洋经济社会委员会](https://github.com/paulzrq/Ecust-Leap/tree/main/社会与公共管理学院/公共政策系)
-
-[[保研]-16-叉烧饭-数学@清华大学](https://github.com/paulzrq/Ecust-Leap/tree/main/数学学院)
-
-[[保研]-16-Y学长-大数据工程@清华大学](https://github.com/paulzrq/Ecust-Leap/tree/main/物理学院)
-
-**<u>4.7（11）</u>**
-
-[[保研]-18-波本-化学@北京大学](https://github.com/paulzrq/Ecust-Leap/tree/main/化学与分子工程学院/化学系)
-
 [[出国]-18-Paul-Biostatistics@Yale](https://github.com/paulzrq/Ecust-Leap/tree/main/数学学院)
 
 [[出国]-18-小川-DS&BA@ESSEC](https://github.com/paulzrq/Ecust-Leap/tree/main/材料科学与工程学院/无机材料系)
-
-[[考研]-18-泡泡茶-应用统计@上海财经大学](https://github.com/paulzrq/Ecust-Leap/tree/main/数学学院)
 
 [[出国]-18-小飞-金数@HKUST](https://github.com/paulzrq/Ecust-Leap/tree/main/商学院/金融学系)
 
 [[出国]-18-Echo-Biostatistics@Columbia University](https://github.com/paulzrq/Ecust-Leap/tree/main/生物工程学院/应用生物学系)
 
+### 保研
+
+[[保研]-16-叉烧饭-数学@清华大学](https://github.com/paulzrq/Ecust-Leap/tree/main/数学学院)
+
+[[保研]-16-Y学长-大数据工程@清华大学](https://github.com/paulzrq/Ecust-Leap/tree/main/物理学院)
+
+[[保研]-18-波本-化学@北京大学](https://github.com/paulzrq/Ecust-Leap/tree/main/化学与分子工程学院/化学系)
+
 [[保研]-18-卡夫卡-化工（高分子方向）@浙江大学](https://github.com/paulzrq/Ecust-Leap/tree/main/材料科学与工程学院/高分子材料系)
 
 [[保研]-17-萃取液-介科学研究部@中国科学院过程工程研究所](https://github.com/paulzrq/Ecust-Leap/tree/main/化工学院/化学工程与工艺)
 
-[[考研]-18-Seven-新能源材料与器件@华东理工大学](https://github.com/paulzrq/Ecust-Leap/tree/main/材料科学与工程学院/无机材料系)
-
-[[考研]-18-波波茶-金融专硕@中科大](https://github.com/paulzrq/Ecust-Leap/tree/main/数学学院)
-
 [[保研]-18-Hypon-统计@RUC](https://github.com/paulzrq/Ecust-Leap/tree/main/数学学院)
-
-**<u>4.8（4）</u>**
-
-[[出国]-17-叶一民-会计@HKU](https://github.com/paulzrq/Ecust-Leap/tree/main/社会与公共管理学院/社会工作系)
 
 [[保研]-18-卷卷-社会工作@南京大学](https://github.com/paulzrq/Ecust-Leap/tree/main/社会与公共管理学院/社会工作系)
 
@@ -71,11 +61,23 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 [[保研]-18-ckkkk-高分子@复旦](https://github.com/paulzrq/Ecust-Leap/tree/main/材料科学与工程学院/高分子材料系)
 
-**<u>4.9（2）</u>**
-
 [[保研]-18-XT-法硕（非法学）@华东政法大学](https://github.com/paulzrq/Ecust-Leap/tree/main/法学院)
 
 [[保研]-18-sky-应用数学@同济大学](https://github.com/paulzrq/Ecust-Leap/tree/main/数学学院)
+
+### 考研
+
+[[考研]-18-泡泡茶-应用统计@上海财经大学](https://github.com/paulzrq/Ecust-Leap/tree/main/数学学院)
+
+[[考研]-18-Seven-新能源材料与器件@华东理工大学](https://github.com/paulzrq/Ecust-Leap/tree/main/材料科学与工程学院/无机材料系)
+
+[[考研]-18-波波茶-金融专硕@中科大](https://github.com/paulzrq/Ecust-Leap/tree/main/数学学院)
+
+[[考研考公]-18-RRR-法硕（非法学）@山东大学](https://github.com/paulzrq/Ecust-Leap/tree/main/社会与公共管理学院/公共政策系)
+
+### 求职
+
+[[求职]-18-Muro- 实习生-@联合国亚洲及太平洋经济社会委员会](https://github.com/paulzrq/Ecust-Leap/tree/main/社会与公共管理学院/公共政策系)
 
 ## 特别鸣谢
 

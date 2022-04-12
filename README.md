@@ -85,6 +85,8 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 [[求职]-18-Muro- 实习生-@联合国亚洲及太平洋经济社会委员会](https://github.com/paulzrq/Ecust-Leap/tree/main/社会与公共管理学院/公共政策系)
 
+[[求职]-17-Xavier-LBS@高盛](https://github.com/paulzrq/Ecust-Leap/tree/main/化工学院/化学工程与工艺)
+
 ## 特别鸣谢
 
 感谢来自江西财经大学的uu特地前来分享：[[保研]-18-狗里斯-国贸@西南财经](https://github.com/paulzrq/Ecust-Leap/tree/main/4保研)

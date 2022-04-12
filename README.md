@@ -71,6 +71,8 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 [[保研]-18-Joanna 行政管理@山东大学](https://github.com/paulzrq/Ecust-Leap/tree/main/社会与公共管理学院/行政管理系)
 
+[[保研]-18-guoyao-英语笔译@南京大学](https://github.com/paulzrq/Ecust-Leap/tree/main/外国语学院/英语系)
+
 ### 考研
 
 [[考研]-18-泡泡茶-应用统计@上海财经大学](https://github.com/paulzrq/Ecust-Leap/tree/main/数学学院)

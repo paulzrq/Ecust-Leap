@@ -83,6 +83,8 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 [[考研考公]-18-RRR-法硕（非法学）@山东大学](https://github.com/paulzrq/Ecust-Leap/tree/main/社会与公共管理学院/公共政策系)
 
+[[考研]-18-广儒-生物医学工程@上海大学](https://github.com/paulzrq/Ecust-Leap/tree/main/药学院/制药工程系)
+
 ### 求职
 
 [[求职]-18-Muro- 实习生-@联合国亚洲及太平洋经济社会委员会](https://github.com/paulzrq/Ecust-Leap/tree/main/社会与公共管理学院/公共政策系)

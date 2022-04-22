@@ -81,6 +81,8 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 [[保研]-18-ing-高分子材料与工程@复旦大学](https://github.com/paulzrq/Ecust-Leap/tree/main/材料科学与工程学院/高分子材料系)
 
+[[保研]-18-晏梦锟-药学@华东理工大学](https://github.com/paulzrq/Ecust-Leap/tree/main/药学院/药物科学系)
+
 ### 考研
 
 [[考研]-18-泡泡茶-应用统计@上海财经大学](https://github.com/paulzrq/Ecust-Leap/tree/main/数学学院)

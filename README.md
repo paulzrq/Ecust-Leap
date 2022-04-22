@@ -43,6 +43,8 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 [[出国]-18-Echo-Biostatistics@Columbia University](https://github.com/paulzrq/Ecust-Leap/tree/main/生物工程学院/应用生物学系)
 
+[[出国]-18-Zoe-Industry 4.0@ NUS](https://github.com/paulzrq/Ecust-Leap/tree/main/商学院/管理科学与工程系)
+
 ### 保研
 
 [[保研]-16-叉烧饭-数学@清华大学](https://github.com/paulzrq/Ecust-Leap/tree/main/数学学院)

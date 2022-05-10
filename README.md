@@ -85,6 +85,8 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 [[保研]-18-晏梦锟-药学@华东理工大学](https://github.com/paulzrq/Ecust-Leap/tree/main/药学院/药物科学系)
 
+[[保研]-18-夏夏-化工@清华大学](https://github.com/paulzrq/Ecust-Leap/tree/main/化工学院/资源循环科学与工程)
+
 ### 考研
 
 [[考研]-18-泡泡茶-应用统计@上海财经大学](https://github.com/paulzrq/Ecust-Leap/tree/main/数学学院)
@@ -96,6 +98,8 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 [[考研考公]-18-RRR-法硕（非法学）@山东大学](https://github.com/paulzrq/Ecust-Leap/tree/main/社会与公共管理学院/公共政策系)
 
 [[考研]-18-广儒-生物医学工程@上海大学](https://github.com/paulzrq/Ecust-Leap/tree/main/药学院/制药工程系)
+
+[[考研]-18-DJ 金专@清华五道口](https://github.com/paulzrq/Ecust-Leap/tree/main/商学院/金融学系)
 
 ### 求职
 

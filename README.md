@@ -27,6 +27,8 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 ### 出国
 
+[[出国]-16-Jack-ECE@CMU](https://github.com/paulzrq/Ecust-Leap/tree/main/信息科学与工程学院/电子与通信工程系/[出国]-16-Jack-ECE@CMU.md)
+
 [[出国]-15-Aaron-ECE@CMU](https://github.com/paulzrq/Ecust-Leap/tree/main/%E4%BF%A1%E6%81%AF%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2/%E7%94%B5%E5%AD%90%E4%B8%8E%E9%80%9A%E4%BF%A1%E5%B7%A5%E7%A8%8B%E7%B3%BB)
 
 [[出国]-17-叶一民-会计@HKU](https://github.com/paulzrq/Ecust-Leap/tree/main/社会与公共管理学院/社会工作系)

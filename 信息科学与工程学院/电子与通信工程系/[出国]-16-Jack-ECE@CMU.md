@@ -5,6 +5,7 @@
 > Major：信息工程
 >
 > Grade： GPA 3.52/4.00 (ECUST)
+> 
 > Grade： GPA 3.87/4.00 (Univeristy of Illinois at Chicago)
 >
 > TOEFL：106(28/27/23/28)(R/L/S/W)

@@ -21,7 +21,7 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 
 目前维护者：18级张润秋 18级周沐融
 
-联系方式：**paulzrq@126.com** & [**zhoumurong@outlook.com**](mailto:zhoumurong@outlook.com)
+联系方式：[**runqiu.zhang@yale.edu**](mailto:runqiu.zhang@yale.edu) & [**zhoumurong@outlook.com**](mailto:zhoumurong@outlook.com)
 
 ## 近期更新
 

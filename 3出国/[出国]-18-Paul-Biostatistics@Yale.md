@@ -28,6 +28,7 @@
   7. ​	Ms in Biostatistics@Yale
   8. ​	MA in Statistics@Columbia
   9. ​	Ms in Statistics@Rice
+  10. ​	MPS in Applied Statistics@Cornell
 * Rej：
   1. ​	MSc in Statistics@Imperial College
   2. ​	MSc in Statistics@UCL
@@ -35,7 +36,7 @@
   4. ​	Ms in  Civil Environmental Engineering@Stanford 
   5. ​	Ms in Computational Biology and Quantitative Genetics@Harvard
   6. ​	Ms in Applied Statistics@Umich
-  7. ​	MPS in Applied Statistics@Cornell
+  
 
 ## 科研经历
 
